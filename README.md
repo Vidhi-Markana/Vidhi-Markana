@@ -20,7 +20,7 @@
 
 ```yaml
 Name: Vidhi Markana
-Role: Computer Engineering Student
+Role: Software Engineer
 Location: India
 Focus: Web Development + AI/ML
 Skills:
