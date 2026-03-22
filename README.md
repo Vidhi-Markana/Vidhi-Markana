@@ -1,66 +1,80 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Vidhi+Markana;Web+Developer;AI%2FML+Enthusiast;Full+Stack+Learner&center=true&width=600&height=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vidhi%20Markana&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20|%20AI/ML%20Enthusiast&descAlignY=55&descAlign=50" />
 </p>
 
-<h1 align="center">✨ Vidhi Markana ✨</h1>
+<!-- ==================== INTRO ==================== -->
+
+<h3 align="center">Hi 👋, I'm Vidhi Markana</h3>
 
 <p align="center">
-  💻 Computer Engineering Student | 🚀 Web Developer | 🤖 AI/ML Enthusiast  
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vidhi-Markana&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things&center=true&width=550&height=45">
 </p>
 
 ---
 
-## 🌟 About Me  
+<!-- ==================== ABOUT ==================== -->
 
-- 🎓 3rd Year Computer Engineering Student  
-- 💡 Passionate about **Web Development & AI/ML**  
-- 🚀 Currently learning **Full Stack Development (React, Node.js, MongoDB)**  
-- 📊 Pursuing **SAP Certification**  
-- 🎯 Focused on building real-world impactful solutions  
+## 🧠 About Me  
 
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css" />
-</p>
-
-### ⚙️ Tools & Technologies  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,linux" />
-</p>
-
-### 🚀 Currently Learning  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,mongodb" />
-</p>
+```yaml
+Name: Vidhi Markana
+Role: Computer Engineering Student
+Location: India
+Focus: Web Development + AI/ML
+Skills:
+  - React.js
+  - Python
+  - Django
+  - Full Stack Development
+Goal: Build scalable, impactful, and real-world applications
+```
 
 ---
 
-## 📊 GitHub Stats  
+<!-- ==================== TECH STACK ==================== -->
+
+## ⚙️ Tech Stack  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vidhi-Markana&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhi-Markana&layout=compact&theme=tokyonight&border_radius=10" height="180"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,nodejs,mysql,linux,react,mongodb,git,github" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak  
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vidhi-Markana&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vidhi-Markana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhi-Markana&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
+
+<!-- ==================== STREAK ==================== -->
+
+## 🔥 Contribution Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vidhi-Markana&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- ==================== SNAKE ==================== -->
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
 
 ## 🌐 Connect With Me  
 
@@ -75,12 +89,19 @@
 
 ---
 
-## ✨ Fun Fact  
-
-💡 I love transforming ideas into real-world applications that create impact.  
-
----
+<!-- ==================== FOOTER ==================== -->
 
 <p align="center">
-  ⭐ Keep Learning | Keep Building | Keep Growing 🚀  
+  <i>“Code. Build. Learn. Repeat.”</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my work interesting, consider giving a star!
+</p>
+
+
+<!-- ==================== FOOTER BANNER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 </p>
