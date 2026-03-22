@@ -38,7 +38,7 @@ Goal: Build scalable, impactful, and real-world applications
 ## ⚙️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,nodejs,mysql,linux,react,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,nodejs,mysql,django,react,mongodb,git,github" />
 </p>
 
 ---
